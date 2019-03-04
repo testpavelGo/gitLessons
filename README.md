@@ -1,2 +1,0 @@
-# gitLessons
-first git
